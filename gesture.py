@@ -254,11 +254,11 @@ class HandGestureRecognizer:
         print("  's' - Save a screenshot")
         print("  'r' - Reset gesture history")
         print("\nRecognizable Gestures:")
-        print("  1. Open Palm ✋ - All fingers extended")
-        print("  2. Fist ✊ - All fingers closed")
-        print("  3. Peace Sign ✌️ - Index and middle fingers extended")
-        print("  4. Thumbs Up 👍 - Only thumb extended upward")
-        print("  5. Pointing 👉 - Only index finger extended")
+        print("  1. Open Palm ")
+        print("  2. Fist ")
+        print("  3. Peace Sign")
+        print("  4. Thumbs Up")
+        print("  5. Pointing")
         print("=" * 50)
         
         # Give camera time to initialize
